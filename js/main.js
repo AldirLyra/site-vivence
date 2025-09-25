@@ -35,7 +35,7 @@
 
     // Hero Header carousel
     $(".header-carousel").owlCarousel({
-        animateOut: 'slideOutDown',
+        // animateOut: 'slideOutDown',
         items: 1,
         autoplay: true,
         smartSpeed: 1000,
