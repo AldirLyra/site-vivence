@@ -881,6 +881,11 @@ body {
     background-attachment: fixed;
 }
 
+.testimonial-item .testimonial-inner p {
+    max-width: 800px; /* limita a largura da caixa de texto */
+    margin: 0 auto;   /* centraliza horizontalmente */
+}
+
 .testimonial .testimonial-item .testimonial-inner {
     display: flex;
     flex-direction: column;
